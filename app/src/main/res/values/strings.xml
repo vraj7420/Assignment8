@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NotificationAndAlarm</string>
+    <string name="setalarm">SetAlarm</string>
+    <string name="setAlarm">set Alaram</string>
+    <string name="alarm_description">Alarm Description</string>
+    <string name="alarmtitle">AlarmTitle</string>
+    <string name="alarmTitle">Alarm Title</string>
+    <string name="set_alarm">Set Alarm</string>
+    <string name="stop_alarm">Stop Alarm</string>
+</resources>
